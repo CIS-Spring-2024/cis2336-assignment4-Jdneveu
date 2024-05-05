@@ -1,4 +1,1 @@
-1.This assignment is graded.
-2.please follow the instructions file posted on canvas
-3.Upload your work to canvas and push all your files to your repository.
-4.clone this repository and start working on the Assignmnet-4&5
+All files are included in either frontend or backend folder. Each has sub folders for HTML, CSS, images and javascrpit. Each page is has stylings associated with it in the css files and javascript for input validation and such. 
